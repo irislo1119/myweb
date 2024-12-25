@@ -5,7 +5,7 @@
 2. list2-2  
 abc  
 def  
-> test@mail.com
+> test@mail.com  
 ```html
 <picture>
   <source media="(min-width: 1201px)" srcset="./images/1920.jpg">
